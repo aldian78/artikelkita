@@ -1,0 +1,1 @@
+Copyright &copy; 2020 | Aldian dwi w

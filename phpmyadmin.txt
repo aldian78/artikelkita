@@ -1,0 +1,4 @@
+phpmyadmin
+
+user : aldiandwiw
+pass : @Aldian12345
